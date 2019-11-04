@@ -5,7 +5,7 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "clean":"rm -rf src/out src/.next .tmp ",
+    "clean": "rm -rf src/out src/.next .tmp ",
     "build": "npm run clean && gulp build && cd .tmp && cross-env next build",
     "export": "cd .tmp && next export ",
     "dev": "cd src && cross-env node index.js",

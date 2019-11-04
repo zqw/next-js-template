@@ -21,4 +21,3 @@ pm2 start pm2/vpc_prod.json
 #上传静态文件
 ###################
 cd $WEB_SITE_ROOT_DIR
-./qiniu.sh
