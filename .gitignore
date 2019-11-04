@@ -1,0 +1,8 @@
+.idea
+.next
+coverage
+node_modules
+.DS_Store
+src/out
+/.tmp
+npm-debug.log
