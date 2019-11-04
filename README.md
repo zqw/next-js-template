@@ -7,5 +7,5 @@ npm run dev
 后端:
 node src/index.js
 
-##生产环境
+## 生产环境
 ./sh/vpc_prod.sh
