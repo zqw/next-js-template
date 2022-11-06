@@ -60,7 +60,7 @@
     "del": "^5.1.0",
     "ext-ext": "^0.1.2",
     "file-loader": "^4.2.0",
-    "gulp": "^3.9.1",
+    "gulp": "^4.0.2",
     "gulp-babel": "^8.0.0",
     "gulp-filter": "^6.0.0",
     "gulp-inject-string": "^1.1.2",
